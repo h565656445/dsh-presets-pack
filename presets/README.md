@@ -1,6 +1,6 @@
 # Presets 合集（打包占位）/ Presets Pack (Placeholder)
 
-本目录是全部 40 个 DSH 衍生项目的 **preset 打包目标目录**（当前为占位）。
+本目录是全部 31 个 DSH 衍生项目的 **preset 打包目标目录**（当前为占位）。
 
 ## 内容来源 / Source
 
