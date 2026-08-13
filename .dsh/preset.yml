@@ -1,0 +1,3 @@
+name: Hermes DSH Preset 打包
+description: Hermes Harness 全部项目的 Agent 预设打包合集（preset.yml + agent.cordis.yml）。Pack of all Hermes Harness agent presets (preset.yml + agent.cordis.yml).
+order: 5
